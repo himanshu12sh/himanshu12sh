@@ -1,6 +1,6 @@
 <p align="center" float="left">  
   <a href="mailto:hs897232@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/find_himanshu_here_/"><img src="https://img.shields.io/badge/shreyanshsingh_2105-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/find_himanshu_here_/"><img src="https://img.shields.io/badge/HimanshuSharma_2105-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/himanshu-sharma-77489219b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
  
