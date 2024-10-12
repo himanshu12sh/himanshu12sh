@@ -2,6 +2,8 @@
   <a href="mailto:hs897232@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/find_himanshu_here_/"><img src="https://img.shields.io/badge/HimanshuSharma_2105-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/himanshu-sharma-77489219b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/hs526720/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.naukri.com/code360/profile/codehimanshu"><img src="https://img.shields.io/badge/codestudio-%231F8ACB.svg?style=for-the-badge&logo=code&logoColor=white" /></a>
   
  
 </p>
